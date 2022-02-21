@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on Slack, Git, Notion
 - 📫 How to reach me esl112999@gmail.com
 
-- IOS Developer (2021.08 ~ )
+- 📱 IOS Developer (2021.08 ~ )
+- 🔗 My NOTION Link : 
