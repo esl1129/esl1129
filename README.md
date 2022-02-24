@@ -5,4 +5,4 @@
 - 📫 How to reach me esl112999@gmail.com
 
 - 📱 IOS Developer (2021.08 ~ )
-- 🔗 My NOTION Link : 
+- 🔗 My NOTION Link : https://petalite-sycamore-04f.notion.site/Finder-8826a95f59f84529b8f276d8eabf8b9d
