@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=PotatoLife&fontSize=70&animation=twinkling)
 
-<p align="center">🇰🇷</p>
-
+<p align="center"> 🇰🇷 🇸🇬 🇲🇾 🇯🇵 </p>
+<br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at often </p>
 <p align="center">
@@ -28,7 +28,7 @@
 <h3 align="center"> 🐥 Contact ME 🐥 </h3>
 <p align="center">
   <a href="https://petalite-sycamore-04f.notion.site/Finder-8826a95f59f84529b8f276d8eabf8b9d"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
-<!--  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp-->
+  <a href="https://www.instagram.com/w00gi2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/w00gi2/"/></a>&nbsp
   <a href="mailto:esl112999@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=esl112999@gmail.com"/></a>
 
 
