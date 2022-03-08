@@ -7,12 +7,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=Swift&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ReactiveX-b7178c?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
-
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 </p>
 <p align="center"> Techs that I've used at least once </p>
-
 <p align="center">
-
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
