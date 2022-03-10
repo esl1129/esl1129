@@ -7,7 +7,7 @@
 <p align="center"> Techs that I've used at often </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=Swift&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/ReactiveX-b7178c?style=flat-square&logo=RxSwift&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/RxSwift-b7178c?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 </p>
