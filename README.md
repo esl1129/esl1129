@@ -49,7 +49,7 @@
 </p>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=esl1129&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&card_width=300px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=esl1129&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&card_width=300"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esl1129&layout=compact&theme=dracula&hide_border=true"/>
