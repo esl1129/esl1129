@@ -47,15 +47,15 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fesl1129%2Fhit-counter&count_bg=%23F05138&title_bg=%23DDDDDD&icon=swift.svg&icon_color=%23000000&title=hits&edge_flat=false"/></a>
 </p>
 <br>
-<table border="none">
+<table>
     <thead>
         <tr>
-            <th>
+            <th border="none">
                 <a href="https://github.com/anuraghazra/github-readme-stats">
                     <img align="center" src="https://github-readme-stats.vercel.app/api?username=esl1129&show_icons=true&theme=dracula&hide_border=true&layout=compact"/>
                 </a>
             </th>
-            <th>
+            <th border="none">
                 <a href="https://github.com/anuraghazra/github-readme-stats">
                     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esl1129&layout=compact&theme=dracula&hide_border=true"/>
                 </a>
