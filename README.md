@@ -7,15 +7,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=Swift&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ReactiveX-b7178c?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 </p>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 
   <br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -29,8 +29,8 @@
 <br>
 <h3 align="center">⛏ Build Tool IDE ⛏</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>
 </p>
 <br>
@@ -47,3 +47,9 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fesl1129%2Fhit-counter&count_bg=%23F05138&title_bg=%23DDDDDD&icon=swift.svg&icon_color=%23000000&title=hits&edge_flat=false"/></a>
 </p>
+<br>
+
+<p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esl1129)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
