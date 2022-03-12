@@ -80,15 +80,4 @@
         </tr>
     </thead>
 </table>
-<table>
-    <thead>
-        <tr>
-            <th border="none">
-                <a href="https://solved.ac/esl112999">
-                    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=esl112999" alt="Solved.ac 프로필">
-                </a>            
-            </th>
-        </tr>
-    </thead>
-</table>
 
