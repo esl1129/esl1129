@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 </p>
-
 <br>
 <h3 align="center">⛏ Build Tool IDE ⛏</h3>
 <p align="center">
