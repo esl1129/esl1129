@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>
 </p>
 <br>
+
 <h3 align="center">🕺🏻 Collaboration 💃🏻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
