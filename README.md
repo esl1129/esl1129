@@ -2,16 +2,14 @@
 <h3 align="center"> 🇰🇷 🇸🇬 🇲🇾 🇯🇵 </h3>
 
 <br>
-
-
 <h3 align="center">🙆🏻 Most Relevant 🙆🏻</h3>
-  <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Swift&logoColor=white"/></a>
+<p align="center">
+    <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Swift&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/AppStore-0D96F6?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=javascript&logoColor=white"/></a>
-<p align="center">
 </p>
 
-
+<br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at often </p>
 <p align="center">
@@ -20,7 +18,6 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 
 </p>
-
 
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
