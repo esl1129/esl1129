@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeAuto&height=150&section=header&text=PotatoLife&fontSize=80&animation=twinkling)
 <h3 align="center"> 🇰🇷 🇸🇬 🇲🇾 🇯🇵 </h3>
-
 <br>
+
 <h3 align="center">🙆🏻 Most Relevant 🙆🏻</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Swift&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/AppStore-0D96F6?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=javascript&logoColor=white"/></a>
 </p>
-
 <br>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at often </p>
 <p align="center">
@@ -36,12 +36,12 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
   
-    <br>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 </p>
-
 <br>
+
 <h3 align="center">⛏ Build Tool IDE ⛏</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
@@ -58,6 +58,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 <br>
+
 <h3 align="center"> 🐥 Contact ME 🐥 </h3>
 <p align="center">
   <a href="https://petalite-sycamore-04f.notion.site/Finder-8826a95f59f84529b8f276d8eabf8b9d"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
