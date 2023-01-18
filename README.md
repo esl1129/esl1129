@@ -5,7 +5,7 @@
 <h3 align="center">🙆🏻 Most Relevant 🙆🏻</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Swift&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/AppStore-0D96F6?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/AppStore-0D96F6?style=flat-square&logo=AppStore&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=javascript&logoColor=white"/></a>
 </p>
 <br>
